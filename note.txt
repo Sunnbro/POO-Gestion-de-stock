@@ -1,0 +1,14 @@
+le projet final est dans le dossier "projet finale",la main class est GestionDeStock.
+on a repondu a toutes les questions dans celui ci,la Bdd et l'interface graphique ne sont pas presentes dans celui la.
+
+a on relie une base de donnees a notre projet dans netbeans,dans le dossier"projet en netbeans"
+mais qui fonctionne qu'avec la gestion de clients et la gestion de produit.
+
+dans la video explicatif il ya eu un petit decalge des titres dans la video de 5seconds
+la ou jai mis achat dans la gestion de commande c'est la modif commande normalement
+|| et la derniere execution c'est achat.
+,je m'excuse de cette erreur .
+
+
+
+Les projets se trouvent dans le sous-dossier src
